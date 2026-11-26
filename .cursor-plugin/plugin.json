@@ -1,0 +1,13 @@
+{
+  "name": "holla",
+  "displayName": "Holla",
+  "version": "1.0.0",
+  "description": "Singapore vouchers, travel eSIMs, parking rates, EV chargers and Johor checkpoint traffic from Holla's live data. Remote MCP server, read-only, no sign-in.",
+  "author": {
+    "name": "Holla",
+    "email": "support@useholla.com"
+  },
+  "homepage": "https://useholla.com/ai-connector",
+  "keywords": ["mcp", "singapore", "parking", "ev-charging", "vouchers", "esim", "travel"],
+  "logo": "logo.png"
+}
