@@ -1,0 +1,10 @@
+{
+  "name": "holla",
+  "version": "1.0.0",
+  "description": "Singapore vouchers, travel eSIMs, parking rates, EV chargers and Johor checkpoint traffic.",
+  "mcpServers": {
+    "holla": {
+      "httpUrl": "https://useholla.com/mcp"
+    }
+  }
+}
